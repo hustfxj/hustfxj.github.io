@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hustfxj.cn/"/>
   <updated>2019-07-13T19:34:41.460Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hustfxj.cn/</id>
   
   <author>
     <name>John Fang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/07/14/hello-world/"/>
-    <id>http://yoursite.com/2019/07/14/hello-world/</id>
+    <link href="http://hustfxj.cn/2019/07/14/hello-world/"/>
+    <id>http://hustfxj.cn/2019/07/14/hello-world/</id>
     <published>2019-07-13T19:34:41.460Z</published>
     <updated>2019-07-13T19:34:41.460Z</updated>
     
@@ -34,10 +34,10 @@
     
     </summary>
     
-      <category term="hello world" scheme="http://yoursite.com/categories/hello-world/"/>
+      <category term="hello world" scheme="http://hustfxj.cn/categories/hello-world/"/>
     
     
-      <category term="hello world" scheme="http://yoursite.com/tags/hello-world/"/>
+      <category term="hello world" scheme="http://hustfxj.cn/tags/hello-world/"/>
     
   </entry>
   
